@@ -2,6 +2,7 @@
 #Comparing 2nd prevention after AMI from discharge, LMR 30 days and 12 months in propensity matched population
 #Rachel Forster
 #12.07.2023
+#added to git R-Ladies
 ########################################
 library(tidyverse)
 library(knitr)
